@@ -1,0 +1,37 @@
+
+.judul{
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+h2{
+    color: white;
+    font-size: 50px;
+}
+
+.card{
+    margin: 5px;
+    padding: 10px 0;
+}
+
+.hasil{
+    margin: 50px 0;
+}
+
+.row{
+    justify-content: center;
+}
+
+.card-text{
+    text-align: justify;
+}
+
+.detail{
+    color: brown;
+    font-weight: 500;
+}
+
+.btn{
+    margin-bottom: 20px;
+}
